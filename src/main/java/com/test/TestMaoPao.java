@@ -16,5 +16,6 @@ public class TestMaoPao {
           }
         System.out.println(Arrays.toString(a));
         System.out.println("push test!");
+        System.out.println("pull test!");
     }
 }
